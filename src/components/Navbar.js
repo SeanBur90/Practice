@@ -12,6 +12,9 @@ export default function Navbar() {
       <Button component={Link} to="/library">
         Library
       </Button>
+      <Button component={Link} to="/light">
+        Light Example
+      </Button>
     </div>
   );
 }

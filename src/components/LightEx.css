@@ -1,4 +1,5 @@
 .Box {
+  position: relative;
   border: 10px solid black;
   width: 500px;
   height: 500px;
